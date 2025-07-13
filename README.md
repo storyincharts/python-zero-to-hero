@@ -1,4 +1,4 @@
-# python-zero-to-hero
+# 01 - python basics
 
 ## These are basic questions solved in this repository 
 
