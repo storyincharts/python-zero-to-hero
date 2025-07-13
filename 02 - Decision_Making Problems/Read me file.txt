@@ -1,0 +1,54 @@
+## Simple calculator Program (Project) (01.py)
+  * Create a basic calculator program that performs addition, substraction, multiplication, 
+    and division.
+
+  * Ask the user to enter two numbers and choose an operation
+
+  * Display the results accordingly.
+
+  * Handle potential errors gracefully.
+
+## Check if the number is even or odd (02.py)
+
+  * Understood that % is the reminder operation 
+
+  * For any number to be even than the reminder is 0, wise versa for odd number
+
+  * So, while making decision, make sure that the given number % 2 == 0, then it's a even number
+
+## Check if a string is palindrome. (03.py)
+
+  *   palindrome is something that reads the same from both front and back side.(e.g. madam)
+
+  *   similarly for numbers
+
+## Chek if a number is positive, negative or zero (04.py)
+ 
+  * We kneed to know the criteria, to know if it greater than zero, less than zero and zero.
+  
+## Check if a ayear is a leap year.(05.py) 
+
+  * we know that leap year comes every almost 4 years
+
+  * Conditions are if divided by 400, reminder is zero, and when devided by 100, remainder shouldn't be zero 
+  * and the second condition is that if it is divided by 4, and reminder is 0. but when by 100, the remainder is not zero. 
+
+## Check if the number is prime number or not. (06.py)
+
+  * prime is number that is divisible by itself. 
+
+  * if n == 1 , then it is not a prime number
+
+  * we use for loop, mentionion i range from 2 to number, for expample if the number is 5, it is not divisible by 2, 3, or 5.so it is a prime number\
+
+## Check if two strings are anagrams(07.py)
+
+  * Definition of Anagram: Both strings should be of equal length. also should have same characters in same order or different order.
+    e.g - abc and bac (lengh of the two strincs are 3, characters are also same)
+
+## Check if a number is an armstrong number or not (08.py)
+
+  * A positive integer is called an Armstrong number of order n, if 
+    abcd..... = a^n + b^n + c^n + d^n .....
+  * eg. In case of an Armstrong number of 3 digits, the sum of cubes of each digit is equal to the number itself. 
+    153 = 1*1*1 + 5*5*5 + 3*3*3 = 1 + 125 + 27 = 153                                                            
