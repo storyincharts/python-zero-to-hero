@@ -1,0 +1,30 @@
+Problems on Loops
+
+## Print numbers from 1 to N (01.py)
+Take a positive integer N as input and print all the numbers from 1 to N 
+Sample input: N == 5 
+Output: 1 
+        2 
+        3 
+        4 
+        5
+
+## calculate the sum of N natural numbers (02.py)
+Take a positive integer N as input and calculate the sum of the first N natural numbers
+sample input: N == 5
+Sample output: Sum = 15
+
+## Print even numbers from 1 to N (03.py)
+Take a positive integer N as input and print all the even numbers from 1 to N 
+sample input: N = 10
+output: 2 
+        4
+        6
+        8
+        10
+
+## Multiplication tabel of a numbers (04.py)
+Take a positive integer N as input and print the multiplication table of N from 1 - 10.
+
+## Caluclate the factorial of a numbers (05.py)
+Take a positive ineger N as input and calcualte its factorial
